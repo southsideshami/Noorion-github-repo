@@ -1,0 +1,5 @@
+// Placeholder for fonts.css
+
+export default function fonts() {
+  return <div>fonts.css - Coming Soon</div>;
+}
